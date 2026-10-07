@@ -1,0 +1,15 @@
+📘 Network Governance Prep — Day 1 · Wed 7 Oct
+Track: Foundations
+
+Governance decides; management delivers
+
+THE IDEA
+Governance sets direction and holds people to account: it evaluates options, directs priorities and monitors results (ISO/IEC 38500: Evaluate–Direct–Monitor). Management does the work within that direction: plan, build, run, monitor. Risk = knowing what could go wrong and how much is acceptable. Compliance = proving you follow the rules you're bound by. COBIT 2019 bakes this in: one governance domain (EDM) and four management domains (APO, BAI, DSS, MEA).
+
+WHY IT MATTERS
+Your unit sits on the governance side. You won't run the network; you'll shape how decisions about it are made, who is accountable, and how performance and risk are reported upward. Keeping this split clear is the first defence against "you're just adding bureaucracy."
+
+THINK ABOUT
+Pick one recent network decision at TIF. Who evaluated it, who directed it, who monitored the result? Was any of that written down?
+
+Open the dashboard: https://claude.ai/artifact/2qqeExcux1Z3cNWEjgw5M9
