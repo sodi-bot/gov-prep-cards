@@ -19,10 +19,13 @@ jobs:
           TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
+          [ -z "$TG_TOKEN" ] && { echo "::error::Secret TELEGRAM_BOT_TOKEN is missing"; exit 1; }
+          [ -z "$TG_CHAT" ] && { echo "::error::Secret TELEGRAM_CHAT_ID is missing"; exit 1; }
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             files=$(ls cards/*.txt | sort | tail -n 1)
           else
-            files=$(git diff --name-only --diff-filter=A HEAD~1 HEAD -- cards/ || true)
+            # Works for the first commit too (--root)
+            files=$(git diff-tree --no-commit-id --name-only --diff-filter=A -r --root HEAD -- cards/)
           fi
           [ -z "$files" ] && { echo "No new cards."; exit 0; }
           for f in $files; do
