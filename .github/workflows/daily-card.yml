@@ -19,6 +19,11 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install image renderer
+        run: |
+          pip install playwright==1.47.0
+          python -m playwright install --with-deps chromium
+
       - name: Write and send today's card
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
