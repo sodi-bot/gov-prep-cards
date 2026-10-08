@@ -1,0 +1,129 @@
+{
+  "slots": [
+    {
+      "date": "2026-10-07",
+      "topic": "Governance vs management vs compliance (the G, R and C of GRC)",
+      "track": "Foundations"
+    },
+    {
+      "date": "2026-10-08",
+      "topic": "COBIT 2019 on one page: 5 domains, 40 objectives",
+      "track": "COBIT 2019"
+    },
+    {
+      "date": "2026-10-09",
+      "topic": "Design factors and focus areas: how COBIT gets tailored",
+      "track": "COBIT 2019"
+    },
+    {
+      "date": "2026-10-12",
+      "topic": "CGEIT Domain 1: Governance of Enterprise IT",
+      "track": "CGEIT"
+    },
+    {
+      "date": "2026-10-13",
+      "topic": "CGEIT Domain 2: IT Resources",
+      "track": "CGEIT"
+    },
+    {
+      "date": "2026-10-14",
+      "topic": "CGEIT Domain 3: Benefits Realization",
+      "track": "CGEIT"
+    },
+    {
+      "date": "2026-10-15",
+      "topic": "CGEIT Domain 4: Risk Optimization",
+      "track": "CGEIT"
+    },
+    {
+      "date": "2026-10-16",
+      "topic": "The TM Forum map: eTOM, SID, ODA, Open APIs",
+      "track": "TM Forum"
+    },
+    {
+      "date": "2026-10-19",
+      "topic": "eTOM in depth: where network operations processes live",
+      "track": "TM Forum"
+    },
+    {
+      "date": "2026-10-20",
+      "topic": "ODA (Open Digital Architecture) and how TM Forum handles governance",
+      "track": "TM Forum"
+    },
+    {
+      "date": "2026-10-21",
+      "topic": "NIST CSF 2.0 and its new Govern function",
+      "track": "Cybersecurity"
+    },
+    {
+      "date": "2026-10-22",
+      "topic": "ISO/IEC 27001, 27011 and telecom-specific security",
+      "track": "Cybersecurity"
+    },
+    {
+      "date": "2026-10-23",
+      "topic": "Indonesian rules that shape IT governance at a listed SOE",
+      "track": "Indonesia"
+    },
+    {
+      "date": "2026-10-26",
+      "topic": "Crosswalks: how frameworks get mapped to each other",
+      "track": "Unified framework"
+    },
+    {
+      "date": "2026-10-27",
+      "topic": "Prior art: has anyone unified IT, network and cyber governance?",
+      "track": "Unified framework"
+    },
+    {
+      "date": "2026-10-28",
+      "topic": "Capability and maturity levels for a network governance model",
+      "track": "Unified framework"
+    },
+    {
+      "date": "2026-10-29",
+      "topic": "Why governance frameworks get rejected, and how they win adoption",
+      "track": "Change"
+    },
+    {
+      "date": "2026-10-30",
+      "topic": "Your first 90 days as Mgr Network Governance",
+      "track": "Change"
+    },
+    {
+      "date": "2026-11-02",
+      "topic": "TM Forum Autonomous Networks: levels L0 to L5 and what changes at each",
+      "track": "Autonomous Networks"
+    },
+    {
+      "date": "2026-11-03",
+      "topic": "Closed loops and intent-based networking: what exactly is being governed",
+      "track": "Autonomous Networks"
+    },
+    {
+      "date": "2026-11-04",
+      "topic": "Who is accountable when the network decides? Decision rights and human-in-the-loop guardrails",
+      "track": "Autonomous Networks"
+    },
+    {
+      "date": "2026-11-05",
+      "topic": "AI governance standards applied to networks: NIST AI RMF and ISO/IEC 42001",
+      "track": "Autonomous Networks"
+    },
+    {
+      "date": "2026-11-06",
+      "topic": "Measuring autonomy: AN maturity assessments, KPIs and audit evidence",
+      "track": "Autonomous Networks"
+    },
+    {
+      "date": "2026-11-09",
+      "topic": "Autonomous network roadmaps: leading operators and Indonesia / Telkom Group",
+      "track": "Autonomous Networks"
+    },
+    {
+      "date": "2026-11-10",
+      "topic": "Putting autonomous networks into the unified framework: controls, policies and a first pilot",
+      "track": "Autonomous Networks"
+    }
+  ]
+}
