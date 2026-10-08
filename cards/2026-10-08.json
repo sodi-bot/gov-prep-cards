@@ -1,0 +1,21 @@
+{
+  "title": "COBIT 2019: 5 domains, 40 objectives",
+  "concept": "COBIT 2019 organizes governance and management work into 40 objectives across five domains. One governance domain (EDM, five objectives) where the board evaluates, directs and monitors, and four management domains (APO, BAI, DSS, MEA, 35 objectives) where executives plan, build, run and monitor. The goals cascade translates stakeholder needs into enterprise goals, alignment goals, and then relevant objectives, so you implement only what your context requires.",
+  "terms": [
+    "Five domains",
+    "40 objectives",
+    "EDM governance domain",
+    "Goals cascade",
+    "Tailored scope"
+  ],
+  "why": "Your unified framework will map TM Forum and cybersecurity controls to COBIT objectives. Understanding the domain structure and goals cascade now will help you scope which of the 40 objectives matter for network governance and autonomous-network decision rights.",
+  "question": "Which network governance decisions should fall under EDM board oversight, and which under APO or DSS management processes?",
+  "source_label": "ISACA COBIT 2019 news article",
+  "source_url": "https://www.isaca.org/resources/news-and-trends/industry-news/2018/a-new-cobit-is-in-town-and-i-really-like-how-it-looks",
+  "verified": true,
+  "day": 2,
+  "track": "COBIT 2019",
+  "date": "2026-10-08",
+  "dow": "Thu",
+  "date_label": "Thu 8 Oct 2026"
+}

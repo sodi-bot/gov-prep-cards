@@ -1,19 +1,19 @@
-Network Governance Prep — Day 2 · Thu 8 Oct
+Network Governance Prep — Day 2 · Thu 8 Oct 2026
 Track: COBIT 2019
 
 COBIT 2019: 5 domains, 40 objectives
 
 THE IDEA
-<cite index="1-1,6-1">COBIT 2019 contains 40 governance and management objectives.</cite> <cite index="6-2,24-12">Five belong to the EDM governance domain and the remaining thirty five are spread across the APO, BAI, DSS and MEA management domains.</cite> <cite index="11-2,20-3">The governance and management objectives in COBIT 2019 are grouped into 5 domains.</cite> EDM is for the board. APO plans and aligns. BAI builds solutions. DSS runs operations. MEA monitors compliance and performance.
+COBIT 2019 organizes governance and management work into 40 objectives across five domains. One governance domain (EDM, five objectives) where the board evaluates, directs and monitors, and four management domains (APO, BAI, DSS, MEA, 35 objectives) where executives plan, build, run and monitor. The goals cascade translates stakeholder needs into enterprise goals, alignment goals, and then relevant objectives, so you implement only what your context requires.
 
 KEY TERMS
-EDM (Evaluate, Direct, Monitor) · APO (Align, Plan, Organize) · BAI (Build, Acquire, Implement) · DSS (Deliver, Service, Support) · MEA (Monitor, Evaluate, Assess)
+Five domains · 40 objectives · EDM governance domain · Goals cascade · Tailored scope
 
 WHY IT MATTERS
-This is the structure Mas Yoga wants you to adapt for network and cybersecurity. The five-domain logic separates governance from management, a distinction that will shape accountability and decision rights when autonomous networks push operational changes into production without waiting for human approval.
+Your unified framework will map TM Forum and cybersecurity controls to COBIT objectives. Understanding the domain structure and goals cascade now will help you scope which of the 40 objectives matter for network governance and autonomous-network decision rights.
 
 THINK ABOUT
-When a network controller reconfigures a link autonomously, which COBIT domain owns the approval threshold policy, and which domain records evidence that the policy was followed?
+Which network governance decisions should fall under EDM board oversight, and which under APO or DSS management processes?
 
-Source: ISACA COBIT Fact Sheet — https://www.isaca.org/about-us/-/media/4fc9d51512c54465b95c418d1468baef.ashx
+Source: ISACA COBIT 2019 news article — https://www.isaca.org/resources/news-and-trends/industry-news/2018/a-new-cobit-is-in-town-and-i-really-like-how-it-looks
 Checked against source
