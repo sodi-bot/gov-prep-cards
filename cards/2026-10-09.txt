@@ -1,0 +1,19 @@
+Network Governance Prep — Day 3 · Fri 9 Oct 2026
+Track: COBIT 2019
+
+Design factors tailor COBIT to context
+
+THE IDEA
+COBIT 2019 defines 11 design factors that influence how you tailor the generic framework to your enterprise's needs. They include enterprise strategy, enterprise goals, risk profile, threat landscape, compliance requirements, role of IT, sourcing model, implementation methods, technology adoption, enterprise size, and IT-related issues. You score each factor to determine which of the 40 objectives to prioritize and at what capability level.
+
+KEY TERMS
+Design factors · Tailored governance system · Target capability levels · Focus areas
+
+WHY IT MATTERS
+Your unified IT-network-cyber framework will cover diverse contexts: TM Forum for network, COBIT for IT, and a cybersecurity reference. Design factors let you select and prioritize the controls that fit your telecom infrastructure context and autonomous network use case.
+
+THINK ABOUT
+Which three design factors will most strongly shape your governance system: enterprise strategy, risk profile, threat landscape, compliance requirements, or the role IT and network play?
+
+Source: ISACA COBIT Design Factors — https://www.isaca.org/resources/news-and-trends/industry-news/2019/cobit-design-factors
+Checked against source
