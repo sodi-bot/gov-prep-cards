@@ -1,0 +1,19 @@
+Network Governance Prep — Day 4 · Mon 12 Oct 2026
+Track: CGEIT
+
+CGEIT Domain 1: Governance framework and accountability
+
+THE IDEA
+Domain 1 of CGEIT covers 40 percent of the exam and focuses on building governance frameworks for enterprise IT. It includes organizational structures, roles and responsibilities, decision rights, accountability, strategy development, compliance, enterprise architecture, and information governance. It sets the direction for IT and monitors performance against enterprise goals.
+
+KEY TERMS
+Governance framework · Decision rights · Accountability structures · Organizational roles · Information governance
+
+WHY IT MATTERS
+Domain 1 is mandatory for CGEIT certification and mirrors your task: building a unified governance framework with clear decision rights and accountability across IT, network and cybersecurity domains.
+
+THINK ABOUT
+Who will own the decision to approve automated network changes under your unified governance framework, and how will you document their accountability?
+
+Source: ISACA CGEIT Exam Content Outline — https://www.isaca.org/credentialing/cgeit/cgeit-exam-content-outline
+Checked against source
