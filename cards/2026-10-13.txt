@@ -1,0 +1,19 @@
+Network Governance Prep — Day 5 · Tue 13 Oct 2026
+Track: CGEIT
+
+CGEIT Domain 2: IT Resources
+
+THE IDEA
+Domain 2 covers governance of IT resources including infrastructure, applications, data, people and services. It focuses on strategic planning, sourcing strategies, capacity planning, acquisition, lifecycle and asset management, competency development, and managing contracted services. The domain ensures resources align with enterprise goals and are optimized for performance.
+
+KEY TERMS
+IT resource planning · Asset lifecycle management · Human resource competency · Sourcing strategies · Contracted service management
+
+WHY IT MATTERS
+For your network governance role, Domain 2 is crucial. Network elements, autonomous systems, spectrum, AI models and staff are all resources requiring clear ownership, capacity plans, lifecycle governance and vendor accountability within your unified framework.
+
+THINK ABOUT
+Who should formally approve capacity expansion or decommissioning decisions for autonomous network domains, and what evidence will you require before recommending such decisions?
+
+Source: ISACA CGEIT Exam Content Outline — https://www.isaca.org/credentialing/cgeit/cgeit-exam-content-outline
+Checked against source
