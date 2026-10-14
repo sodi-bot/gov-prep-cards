@@ -1,0 +1,19 @@
+Network Governance Prep — Day 6 · Wed 14 Oct 2026
+Track: CGEIT
+
+CGEIT Domain 3: Benefits Realization
+
+THE IDEA
+Benefits realization ensures IT-enabled investments deliver measurable business value throughout their economic lifecycle. It spans performance management, governance oversight, business case development, investment tracking, and benefit evaluation methods. Ownership and accountability for delivering benefits sit with business stakeholders, not IT alone.
+
+KEY TERMS
+Business case development · Performance metrics · Benefit evaluation methods · IT investment lifecycle · Governance monitoring and reporting
+
+WHY IT MATTERS
+Your unified framework needs to prove autonomous network investments deliver real value. Defining Key Effectiveness Indicators for AN use cases, assigning benefit owners, tracking realization, and reporting progress to stakeholders is how governance wins trust and resists pushback.
+
+THINK ABOUT
+Who will own and be accountable for the business benefits when your organisation moves from manual fault remediation to AN Level 4 autonomous healing?
+
+Source: ISACA CGEIT Exam Content Outline — https://www.isaca.org/credentialing/cgeit/cgeit-exam-content-outline
+Checked against source
