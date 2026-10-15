@@ -1,0 +1,19 @@
+Network Governance Prep — Day 7 · Thu 15 Oct 2026
+Track: CGEIT
+
+CGEIT Domain 4: Risk Optimization
+
+THE IDEA
+Risk Optimization ensures an IT risk management framework exists to identify, analyze, mitigate, manage, monitor and communicate IT-related business risk and aligns it with enterprise risk management. The framework balances protection against opportunity, addresses legal and regulatory compliance, and establishes key risk indicators and escalation protocols.
+
+KEY TERMS
+IT risk management framework · Enterprise risk alignment · Risk appetite and tolerance · Key risk indicators · Risk escalation protocols
+
+WHY IT MATTERS
+For autonomous networks, Risk Optimization defines who approves automated changes, sets guardrails for AI actions, and determines when human oversight is mandatory. These controls must span IT, network and cybersecurity in your unified framework.
+
+THINK ABOUT
+At what autonomy level should your governance framework require human approval before a network agent executes a configuration change?
+
+Source: ISACA CGEIT Exam Content Outline — https://www.isaca.org/credentialing/cgeit/cgeit-exam-content-outline
+Checked against source
