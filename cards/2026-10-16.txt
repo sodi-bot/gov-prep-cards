@@ -1,0 +1,19 @@
+Network Governance Prep — Day 8 · Fri 16 Oct 2026
+Track: TM Forum
+
+TM Forum map: eTOM, SID, ODA, Open APIs
+
+THE IDEA
+TM Forum provides an integrated framework for telecoms. eTOM defines business processes. SID provides a shared data model. Open APIs enable interoperability between systems. ODA packages these into a cloud-native, component-based architecture. Together they create a common language across business, data and technical domains.
+
+KEY TERMS
+eTOM process framework · SID data model · ODA components · Open APIs · Frameworx evolution
+
+WHY IT MATTERS
+Your unified framework needs a COBIT-like model for network operations. TM Forum offers that: eTOM is the process map, SID the data dictionary, and Open APIs the integration layer. Understanding how they connect helps you align network governance with IT governance.
+
+THINK ABOUT
+Which network processes in your organisation could you map to eTOM to create shared accountability between IT and network teams?
+
+Source: TM Forum - About ODA — https://www.tmforum.org/oda/about-oda
+Checked against source
