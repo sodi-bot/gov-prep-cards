@@ -1,0 +1,19 @@
+Network Governance Prep — Day 9 · Mon 19 Oct 2026
+Track: TM Forum
+
+eTOM Operations: Fulfilment, Assurance and Billing
+
+THE IDEA
+The Operations area of eTOM contains the core customer-facing processes organized vertically as Fulfilment, Assurance and Billing, and horizontally across functional domains like Customer Relationship Management, Service Management and Operations, and Resource Management and Operations. These Level 1 and Level 2 processes map network lifecycle activities to a standard business process structure, enabling end-to-end flow-through from customer order to resource provisioning and ongoing service quality.
+
+KEY TERMS
+Fulfilment Assurance Billing · Operations Level 2 · Service and Resource Management · Horizontal and Vertical groupings
+
+WHY IT MATTERS
+Understanding where network operations processes sit in eTOM lets you map COBIT IT governance to the network domain and identify decision rights and approval points for autonomous network changes across the unified framework.
+
+THINK ABOUT
+Which eTOM Level 2 processes in Resource Management and Operations will autonomous network actions touch, and where will you insert approval gates?
+
+Source: ITU-T M.3050.1 eTOM Framework — https://www.itu.int/rec/dologin_pub.asp?lang=f&id=T-REC-M.3050.1-200406-S!!PDF-E&type=items
+Checked against source
