@@ -1,0 +1,21 @@
+{
+  "title": "ODA Governance: Decision Rights and Accountability",
+  "concept": "ODA governance provides standards, policies and guidelines across the full transformation lifecycle to ensure solutions adhere to ODA principles. It covers API governance, AI governance, security governance and data governance, and includes transformation management, design guides, maturity models and metrics. Governance specifies decision rights and accountabilities while ensuring compliance, reducing risk and enabling scalable AI operations.",
+  "terms": [
+    "ODA governance layers",
+    "Decision rights framework",
+    "AI lifecycle management",
+    "Transformation management",
+    "Component accountability"
+  ],
+  "why": "Your unified framework must integrate ODA governance alongside COBIT and cybersecurity models. ODA defines decision rights, accountability and guardrails for autonomous network operations, maturity assessment and compliance, all critical for governing change in your telecom infrastructure.",
+  "question": "Which ODA governance layer will you adopt first to establish decision rights for automated network changes: API governance, AI governance or data governance?",
+  "source_label": "TM Forum About ODA",
+  "source_url": "https://www.tmforum.org/oda/about-oda",
+  "verified": true,
+  "day": 10,
+  "track": "TM Forum",
+  "date": "2026-10-20",
+  "dow": "Tue",
+  "date_label": "Tue 20 Oct 2026"
+}
