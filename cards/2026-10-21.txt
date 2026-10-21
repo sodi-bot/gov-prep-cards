@@ -1,0 +1,19 @@
+Network Governance Prep — Day 11 · Wed 21 Oct 2026
+Track: Cybersecurity
+
+NIST CSF 2.0: Govern as Foundation
+
+THE IDEA
+In February 2024 NIST added a sixth function, Govern, to the Cybersecurity Framework. Govern sits at the center of the other five functions and establishes the cybersecurity risk management strategy, expectations and policy that inform Identify, Protect, Detect, Respond and Recover. It includes six categories covering organizational context, risk management strategy, roles and responsibilities, policy, oversight, and cybersecurity supply chain risk management.
+
+KEY TERMS
+Govern function · Risk management strategy · Organizational context · Supply chain risk · Policy and oversight
+
+WHY IT MATTERS
+Govern aligns cybersecurity with enterprise risk and makes leadership accountable, a requirement for a unified IT-network-cyber framework. It provides the strategic layer needed to govern network automation, set approval thresholds and integrate COBIT and TM Forum controls.
+
+THINK ABOUT
+Who in your organisation will own the cybersecurity risk management strategy that Govern requires, and how will network automation decisions escalate through that function?
+
+Source: NIST CSF 2.0 — https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20
+Checked against source
