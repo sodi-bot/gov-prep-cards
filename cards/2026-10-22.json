@@ -1,0 +1,20 @@
+{
+  "title": "ISO 27011: Telecom-Specific Security Controls",
+  "concept": "ISO/IEC 27011 adapts ISO 27002 controls for telecommunications operators. Published March 2024, it adds telecom-specific guidance on interconnect security, DoS mitigation, signaling protection, and lawful intercept. It supplements ISO 27001 certification and aligns with ITU-T X.1051. In Indonesia, strategic and high-risk systems must implement ISO 27001 standards.",
+  "terms": [
+    "ISO/IEC 27011:2024",
+    "Telecom-specific controls",
+    "ITU-T X.1051 alignment",
+    "Indonesian BSSN requirements"
+  ],
+  "why": "Your unified framework can use ISO 27011 as the telecom sector extension of ISO 27001, bridging generic IT security controls with network-specific threats like signaling attacks and ensuring alignment with Indonesian strategic-system mandates.",
+  "question": "Which network assets in your scope would trigger strategic or high-risk classification under Indonesian rules, requiring ISO 27001 controls?",
+  "source_label": "ISO/IEC 27011:2024 (iso.org)",
+  "source_url": "https://www.iso.org/obp/ui/#iso:std:iso-iec:27011:ed-3:v1:en",
+  "verified": true,
+  "day": 12,
+  "track": "Cybersecurity",
+  "date": "2026-10-22",
+  "dow": "Thu",
+  "date_label": "Thu 22 Oct 2026"
+}
