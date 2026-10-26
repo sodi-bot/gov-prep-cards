@@ -1,0 +1,19 @@
+Network Governance Prep — Day 14 · Mon 26 Oct 2026
+Track: Unified framework
+
+Crosswalks: Mapping One Framework to Another
+
+THE IDEA
+A crosswalk is a structured mapping that connects requirements across multiple frameworks, identifying where controls are equivalent, dependent or distinct. It lets you implement a control once and reuse the evidence across COBIT, NIST CSF, ISO 27001 and TM Forum, reducing duplication, exposing gaps and strengthening audit traceability.
+
+KEY TERMS
+Crosswalk mapping · Control equivalence · Multi-framework compliance · Mapping relationship strength
+
+WHY IT MATTERS
+Your unified framework needs explicit mappings between COBIT objectives, TM Forum eTOM processes, NIST CSF subcategories and ISO 27001 controls. Crosswalks demonstrate that one network governance control satisfies multiple requirements without duplicate effort.
+
+THINK ABOUT
+Which network governance controls in your organisation are currently implemented separately for IT audit, operations and security, and could be unified?
+
+Source: ISACA COBIT ITIL 2021 — https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2021/volume-17/new-resource-illustrates-synergies-between-itil-4-and-cobit-2019
+Checked against source
