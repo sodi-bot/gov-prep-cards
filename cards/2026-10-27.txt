@@ -1,0 +1,19 @@
+Network Governance Prep — Day 15 · Tue 27 Oct 2026
+Track: Unified framework
+
+Unified Frameworks: What Telecom Operators Actually Do
+
+THE IDEA
+No standard prescribes a single unified IT-network-cyber framework. In practice, organizations map COBIT 2019 for IT governance to ISO 27001 or NIST CSF 2.0 for security, creating crosswalks that let one control satisfy multiple requirements. Telecoms layer ISO 27011 telecom-specific guidance on top of 27001, and integrate ITIL for service management. ISACA explicitly designed COBIT 2019 to align with major standards.
+
+KEY TERMS
+Framework mapping · COBIT alignment principle · ISO 27011 telecom layer · Crosswalk matrix
+
+WHY IT MATTERS
+Your manager seeks a unified model. The prior art is not a single standard but integration by design: COBIT maps to NIST and ISO, and ISO 27011 adds telecom controls. You will build crosswalks, not invent from scratch.
+
+THINK ABOUT
+Which framework should anchor your unified model: COBIT processes, ISO 27001 controls, or NIST CSF outcomes, and what would each imply for accountability?
+
+Source: ISACA COBIT 2019 Implementation Guide — https://pjj.darmajaya.ac.id/pluginfile.php/193/mod_folder/content/0/4-COBIT-2019-Implementation-Guide_res_eng_1218.pdf
+Checked against source
