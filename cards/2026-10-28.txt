@@ -1,0 +1,19 @@
+Network Governance Prep — Day 16 · Wed 28 Oct 2026
+Track: Unified framework
+
+Capability and Maturity Levels for Network Governance
+
+THE IDEA
+COBIT 2019 uses six capability levels (0 to 5) per process and aggregates them into maturity scores for focus areas. TM Forum defines six autonomous network levels (L0 to L5) to measure operational autonomy from manual to fully self-managing. Both scales provide measurable baselines, track governance improvement, and anchor decision rights and assurance requirements as autonomy increases.
+
+KEY TERMS
+Capability levels 0-5 · Maturity assessment · TM Forum L0-L5 · Process versus focus area
+
+WHY IT MATTERS
+Your unified framework needs a common measurement language across IT, network, and cybersecurity. Capability and maturity levels let you baseline current state, set improvement targets, define governance thresholds for automated network changes, and report progress to leadership and auditors.
+
+THINK ABOUT
+Which network operational processes sit at L2 or below today, and what governance guardrails must you define before advancing them to L3 conditional autonomy?
+
+Source: ISACA COBIT 2019 Capability and Maturity Assessment — https://www.isaca.org/resources/news-and-trends/industry-news/2020/effective-capability-and-maturity-assessment-using-cobit-2019
+Checked against source
