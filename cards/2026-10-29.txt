@@ -1,0 +1,19 @@
+Network Governance Prep — Day 17 · Thu 29 Oct 2026
+Track: Change
+
+Why Governance Frameworks Get Rejected
+
+THE IDEA
+Frameworks fail when they become compliance theater instead of authority-connected governance. Rejection stems from lack of executive support, resistance to change, unclear value, imposed solutions, misalignment with actual workflows, insufficient skills, and treating implementation as documentation rather than as integration into decision rights and correction paths. Success requires stakeholder engagement, staged rollout with measurable wins, and operational evidence of value.
+
+KEY TERMS
+Authority-connected governance · Stakeholder buy-in · Change management · Staged implementation · Measurable value
+
+WHY IT MATTERS
+Your unified IT-network-cyber framework will meet resistance from multiple domains. Understanding why frameworks fail lets you design for adoption: start narrow, prove value on high-friction domains, tie governance to operational corrections, and make each domain a partner, not a recipient.
+
+THINK ABOUT
+Which network or security process causes the most friction today, and could a small governance win there build trust for the broader framework?
+
+Source: COBIT 2019 Implementation Guide — https://pjj.darmajaya.ac.id/pluginfile.php/193/mod_folder/content/0/4-COBIT-2019-Implementation-Guide_res_eng_1218.pdf?forcedownload=1
+Checked against source
