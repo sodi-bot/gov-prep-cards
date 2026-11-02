@@ -1,0 +1,21 @@
+{
+  "title": "Autonomous Networks Levels L0 to L5",
+  "concept": "TM Forum defines six autonomy levels for telecom networks, from L0 (manual operation and maintenance) to L5 (full autonomous networks). Each level measures how much the system handles execution, awareness, analysis, decision-making and intent, shifting control progressively from personnel to systems. Most operators today sit at L0 to L2 and target L4.",
+  "terms": [
+    "L0 manual operation",
+    "L3 conditional autonomy",
+    "L4 high autonomy",
+    "L5 full autonomy",
+    "Intent and experience"
+  ],
+  "why": "Your governance framework must assign clear decision rights and approval thresholds at each level. L2 automates execution, L3 adds awareness and analysis, L4 requires system-driven decisions, L5 delegates even intent. Each step changes accountability, audit trails and risk controls.",
+  "question": "At which autonomy level will your organisation require human approval for network changes, and who will own the decision to delegate further?",
+  "source_label": "TM Forum Autonomous Networks White Paper",
+  "source_url": "https://www.tmforum.org/wp-content/uploads/2019/05/22553-Autonomous-Networks-whitepaper.pdf",
+  "verified": true,
+  "day": 19,
+  "track": "Autonomous Networks",
+  "date": "2026-11-02",
+  "dow": "Mon",
+  "date_label": "Mon 2 Nov 2026"
+}
