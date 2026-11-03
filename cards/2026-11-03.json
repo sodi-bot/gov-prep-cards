@@ -1,0 +1,21 @@
+{
+  "title": "What Gets Governed in Closed Loops and Intent",
+  "concept": "Closed-loop automation continuously monitors network state, makes decisions, and executes remediation without human intervention. Intent-based networking translates high-level goals into policies that drive those loops. Governance defines who decides what, which actions need approval, how conflicts are resolved, what evidence is captured for audit, and when the loop must escalate to a human.",
+  "terms": [
+    "Closed-loop automation",
+    "Intent Management Function",
+    "Escalation and approval thresholds",
+    "Decision rights and conflict resolution",
+    "Audit evidence and explainability"
+  ],
+  "why": "Your framework must govern what autonomous loops can change, who authorizes actions, and how to prove compliance. TM Forum Intent Management and ETSI ZSM Closed-Loop Governance offer building blocks you can map to COBIT decision rights and NIST AI RMF trust controls.",
+  "question": "Which network changes will your autonomous loops execute automatically, and which require human approval or a second loop before action?",
+  "source_label": "ETSI ZSM closed-loop automation enablers",
+  "source_url": "https://www.etsi.org/blogs/the-recently-released-etsi-zsm-specification-on-closed-loop-enablers-provides-a-significant-boost-for-enabling-full-end-to-end-network-and-service-automation/",
+  "verified": true,
+  "day": 20,
+  "track": "Autonomous Networks",
+  "date": "2026-11-03",
+  "dow": "Tue",
+  "date_label": "Tue 3 Nov 2026"
+}
