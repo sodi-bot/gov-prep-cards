@@ -1,0 +1,19 @@
+Network Governance Prep — Day 21 · Wed 4 Nov 2026
+Track: Autonomous Networks
+
+Who Decides When the Network Decides?
+
+THE IDEA
+As autonomous networks progress toward L4 and L5, accountability for AI-driven decisions must remain with humans, not the model. Guardrails define approval thresholds by criticality, scope and reversibility. NIST AI RMF, ISO/IEC 42001, TM Forum and ETSI ZSM all emphasize human oversight, risk-based decision rights and auditable evidence that a person owns the consequences.
+
+KEY TERMS
+Decision rights · Human-in-the-loop · Approval thresholds · Accountability framework · Guardrails
+
+WHY IT MATTERS
+Your unified framework must define who owns autonomous decisions, what requires human approval and how evidence proves accountability. TM Forum, NIST and ISO all treat this as a control, not a prompt.
+
+THINK ABOUT
+Which network changes will your framework allow autonomously, which need approval, and who signs the policy defining the threshold?
+
+Source: TM Forum Trustworthy AI launch — https://www.tmforum.org/news-insight/newsroom/tm-forum-launches-industry-initiative-to-enable-trusted-ai-autonomy
+Checked against source
