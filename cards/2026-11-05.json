@@ -1,0 +1,20 @@
+{
+  "title": "AI Governance Standards for Networks: NIST and ISO",
+  "concept": "NIST AI Risk Management Framework and ISO/IEC 42001 are the two leading horizontal AI governance standards. NIST AI RMF organizes risk work into four functions: Govern, Map, Measure and Manage. ISO 42001 is the first certifiable management system standard for AI. Both apply to autonomous network deployments and can be mapped into a unified IT, network and cybersecurity governance framework.",
+  "terms": [
+    "NIST AI RMF",
+    "ISO/IEC 42001",
+    "Four functions",
+    "Certifiable AIMS"
+  ],
+  "why": "TM Forum is launching a Trustworthy AI Governance Certification for operators scaling autonomous networks. NIST AI RMF and ISO 42001 are both referenced in telecom autonomous-network governance work, and both integrate with COBIT and ISO 27001.",
+  "question": "Which of the four NIST AI RMF functions do you expect to meet the most resistance when applied to network closed loops, and why?",
+  "source_label": "NIST AI RMF official page",
+  "source_url": "https://www.nist.gov/itl/ai-risk-management-framework",
+  "verified": true,
+  "day": 22,
+  "track": "Autonomous Networks",
+  "date": "2026-11-05",
+  "dow": "Thu",
+  "date_label": "Thu 5 Nov 2026"
+}
