@@ -1,0 +1,19 @@
+Network Governance Prep — Day 23 · Fri 6 Nov 2026
+Track: Autonomous Networks
+
+Measuring Autonomy: Maturity, KPIs and Audit Evidence
+
+THE IDEA
+Autonomous networks require three measurement layers: maturity assessment to establish your baseline autonomy level using tools like TM Forum ANLET; Key Effectiveness Indicators that track business outcomes rather than just technical capability; and audit-ready evidence trails showing what the network decided, who approved it, and how its actions can be reconstructed and verified.
+
+KEY TERMS
+ANLET maturity tool · Key Effectiveness Indicators · Audit evidence trail · Level evaluation methodology
+
+WHY IT MATTERS
+Your unified framework must prove autonomy claims to auditors and leadership. Maturity assessment identifies governance gaps, KEIs link automation to business value, and evidence trails answer accountability questions when closed loops act without human intervention.
+
+THINK ABOUT
+Which network domains in your organisation would you assess first using TM Forum ANLET, and what evidence would you need to demonstrate their autonomy level to an auditor?
+
+Source: TM Forum IG1252 Autonomous Network Levels Evaluation Methodology — https://www.tmforum.org/resources/introductory-guide/ig1252-autonomous-network-levels-evaluation-methodology-v1-2-0/
+Checked against source
